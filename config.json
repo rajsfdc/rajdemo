@@ -1,5 +1,6 @@
 {
-  "sfdcLoginUrl" : "http://na1.internal.salesforce.com:8080",
-  "apiVersion" : "38.0",
-  "defaultArtifact" : "helloWorld"
-}
+ -    "sfdcLoginUrl": "login.salesforce.com",
+ +    "sfdcLoginUrl": "https://login.salesforce.com",
+      "apiVersion": "38.0",
+      "defaultArtifact": "force-app"
+  }
