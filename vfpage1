@@ -17,6 +17,7 @@
         <apex:inputField value="{!contact.FirstName}" required="true" />
         <apex:inputField value="{!contact.LastName}"  required="true" />
         <apex:inputField value="{!contact.Email}"     required="true" />
+        <apex:inputField value="{!contact.AssistantName}" required="true" />
         <apex:pageBlockSectionItem >
           <apex:outputLabel >Referrer</apex:outputLabel>
        
