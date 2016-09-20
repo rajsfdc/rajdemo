@@ -1,5 +1,5 @@
 {
-  "sfdcLoginUrl" : "http://<your server>.internal.salesforce.com:8080",
+  "sfdcLoginUrl" : "http://na1.internal.salesforce.com:8080",
   "apiVersion" : "38.0",
   "defaultArtifact" : "helloWorld"
 }
