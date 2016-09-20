@@ -1,0 +1,20 @@
+{
+  "name": "rajdemo",
+  "scripts": {
+  },
+  "env": {
+    "SALESFORCE_URL": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+    "salesforce"
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/salesforce-buildpack"
+    }
+  ]
+}
