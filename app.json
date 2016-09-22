@@ -5,9 +5,8 @@
   "env": {
     "SALESFORCE_URL": {
       "required": true
-    }
-  },
-  "SALESFORCE_HUB_URL" : {
+    },
+    "SALESFORCE_HUB_URL" : {
       "required": true
     }
   },
