@@ -10,7 +10,7 @@
   "SALESFORCE_HUB_URL" : {
       "required": true
     }
-  }
+  },
   "formation": {
   },
   "addons": [
