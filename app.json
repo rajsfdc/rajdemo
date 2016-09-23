@@ -8,11 +8,7 @@
     },
     "SALESFORCE_HUB_URL" : {
       "required": true
-    },
-    "SALESFORCE_START_URL" : {
-      "required": true,
-      "value": "/apex/DemoPage"
-      
+    
     }
   },
   "formation": {
