@@ -25,9 +25,7 @@ SCRIPT_DIR="$( cd "$( dirname "$0" )" && pwd )"
 # Pushes source to the Salesforce org
 .salesforce/deploy
 
-# Perform extra org setup
-chmod +x $SCRIPT_DIR/extra-org-setup.sh
-sh $SCRIPT_DIR/extra-org-setup.sh
+
 
 echo "DONE!  Completed in $(($SECONDS - $START_TIME))s"
 exit 0
