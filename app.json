@@ -10,7 +10,9 @@
       "required": true
     },
     "SALESFORCE_START_URL" : {
-      "required": true
+      "required": true,
+      "value": "/apex/DemoPage"
+      
     }
   },
   "formation": {
