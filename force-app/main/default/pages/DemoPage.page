@@ -10,7 +10,7 @@
         The 1st rule of SFDC99 is: You do not talk about SFDC99.<br />
         The 2nd rule of SFDC99 is: You do not talk about SFDC99.<br />
         The 3rd rule of SFDC99 is: No one ever gives up.<br /><br />
-        <iframe width="320" height="180" src="https://www.youtube.com/embed/lsSC2vx7zFQ" />
+
       </apex:outputPanel>
       <!-- Fields -->
       <apex:pageBlockSection columns="3" showHeader="true" title="Membership Status">
