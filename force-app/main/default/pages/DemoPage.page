@@ -1,15 +1,15 @@
 <apex:page standardController="Contact">
   <!-- Page Header -->
-  <apex:sectionHeader title="Contact Edit" subtitle="New SFDC99 Member" />
+  <apex:sectionHeader title="Contact Edit" subtitle="New SFDC Demo Member" />
   <apex:image value="http://bit.ly/17iLknp" styleClass="logo" />
   <!-- Begin Form -->
   <apex:form >
-    <apex:pageBlock title="Rules of SFDC99" mode="edit">
+    <apex:pageBlock title="Rules of SFDC Demo" mode="edit">
       <!-- SFDC99 Rules -->
       <apex:outputPanel styleClass="rules">
-        The 1st rule of SFDC99 is: You do not talk about SFDC99.<br />
-        The 2nd rule of SFDC99 is: You do not talk about SFDC99.<br />
-        The 3rd rule of SFDC99 is: No one ever gives up.<br /><br />
+        The 1st rule of SFDC Demo is: You do not talk about SFDC Demo.<br />
+        The 2nd rule of SFDC Demo is: You do not talk about SFDC Demo.<br />
+        The 3rd rule of SFDC Demo is: You do not talk about SFDC Demop.<br /><br />
 
       </apex:outputPanel>
       <!-- Fields -->
@@ -32,8 +32,8 @@
       </apex:pageBlockSection>
       <!-- Button Section -->
       <apex:pageBlockButtons location="bottom">
-        <apex:commandButton value="Add SFDC99 Member" action="{!save}" />
-        <apex:commandLink value="Back to SFDC99" target="http://www.sfdc99.com" />
+        <apex:commandButton value="Add SFDC Demo Member" action="{!save}" />
+     
       </apex:pageBlockButtons>
     </apex:pageBlock>
   </apex:form>
