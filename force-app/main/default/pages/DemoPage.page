@@ -9,7 +9,8 @@
       <apex:outputPanel styleClass="rules">
         The 1st rule of SFDC Demo is: You do not talk about SFDC Demo.<br />
         The 2nd rule of SFDC Demo is: You do not talk about SFDC Demo.<br />
-        The 3rd rule of SFDC Demo is: You do not talk about SFDC Demop.<br /><br />
+        The 3rd rule of SFDC Demo is: You do not talk about SFDC Demo.<br /><br />
+        The 4th rule of SFDC Demo is: You do not worry about caching.<br /><br />
 
       </apex:outputPanel>
       <!-- Fields -->
@@ -17,12 +18,6 @@
         <apex:inputField value="{!contact.FirstName}" required="true" />
         <apex:inputField value="{!contact.LastName}"  required="true" />
        
-       
-        
-        
-        
-        
-        
         
         
         <apex:pageBlockSectionItem >
