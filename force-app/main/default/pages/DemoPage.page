@@ -16,7 +16,7 @@
       <!-- Fields -->
       <apex:pageBlockSection columns="3" showHeader="true" title="Membership Status">
         <apex:inputField value="{!contact.FirstName}" required="true" />
-        <apex:inputField value="{!contact.LastName}"  required="true" />
+       
        
         
         
